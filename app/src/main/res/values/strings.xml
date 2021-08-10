@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string name="new_student">New student</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="school">School</string>
+    <string name="photo_url">Photo url</string>
+    <string name="add">Add</string>
+    <string name="choose">Please choose</string>
+    <string name="edirorremove">Edit or remove?</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="filter">Filter</string>
+</resources>
